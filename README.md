@@ -80,4 +80,4 @@ Tools for converting Markdown Source File to Reveal.js HTML5 slides
 
     以上就是我遇到的所有问题，逐一修改之后，问题全部得以解决，可以看到实际的slide了，不过不知道为什么，打开的速度居然那么慢。
 
-    以上问题解决，参考了王树义老师repo的issue以及另外一位的[repo](https://github.com/dumushui/markdown2slides).
+    以上问题解决，参考了[王树义老师repo](https://github.com/wshuyi/markdown2slides)的issue以及另外一位的[repo](https://github.com/dumushui/markdown2slides).
